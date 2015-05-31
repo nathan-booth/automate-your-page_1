@@ -1,0 +1,37 @@
+/* CSS for lessons web page */
+
+body {
+  background-color: black;
+  color: white;
+  text-align: justify;
+  padding: 2%;
+	font-family: Helvetica;
+	font-size: 1.2em;
+}
+
+a:link {
+  color: gray
+}
+
+h1 {
+	text-align: center;
+	color: green;
+}
+
+.toc {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.lesson {
+  text-align: center;
+  border-radius: 20px;
+	color: white;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+}
+
+.section-text {
+  text-align: left
+}
